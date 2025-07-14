@@ -4,8 +4,8 @@
 #include <Wire.h>
 
 // WiFi credentials
-const char* ssid = "___Your ssid___";
-const char* password = "___Your password__";
+const char* ssid = "YOUR_WIFI_NAME";
+const char* password = "YOUR_WIFI_PASSWORD";
 
 // Motor pins
 const int in1 = 27, in2 = 26, ena = 14;
