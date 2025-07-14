@@ -128,7 +128,7 @@ Pull requests are welcome! Feel free to fork and modify the project for your own
 
 ## 🔗 Credits
 
-- Developed by: **[Aditya Choudhary, Sayantan Das, ]**
+- Developed by: **[Aditya Choudhary, Sayantan Das, Anurag Barman]**
 - Based on ESP32, Adafruit BMP180, HC-SR04, and Relay Modules
 
 ---
